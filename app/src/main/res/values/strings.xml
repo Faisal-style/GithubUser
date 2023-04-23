@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GithubUserVerMe</string>
+    <string name="avatar_img">img</string>
+    <string name="username_placeholder">username</string>
+    <string name="search">Search</string>
+    <string name="name_placeholder">Nama</string>
+    <string name="location_placeholder">User Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_follower">FOLLOWER</string>
+    <string name="following_content">FOLLOWING</string>
+</resources>
